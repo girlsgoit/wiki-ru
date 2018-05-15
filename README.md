@@ -1,4 +1,6 @@
-# Добро пожаловать в GirlsGoIT Wiki :tulip:
+# Introduction
 
-![](/images/index.png)
+## Welcome to GirlsGoIT Wiki 🌷
+
+![](.gitbook/assets/index.png)
 
