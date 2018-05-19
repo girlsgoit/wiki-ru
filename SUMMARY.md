@@ -6,4 +6,5 @@
 
 * [How Web Works](frontend/how-web-works.md)
 * [HTML Intro](frontend/html-intro.md)
+* [CSS Intro](frontend/css-intro.md)
 
